@@ -8,4 +8,4 @@ Installing
 
 Latest dev code:
 
-    npm install https://github.com/jwyuan/td-node-client/tarball/master
+    npm install https://github.com/jyuan/td-node-client/tarball/master

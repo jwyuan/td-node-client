@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "http://github.com/jwyuan/td-node-client.git"
+        "url": "http://github.com/jyuan/td-node-client.git"
     },
     "main": "./lib"
 }
